@@ -1,6 +1,6 @@
-numpy
+streamlit
 tensorflow
-opencv-python
-Pillow
-picamera2
-tkinter
+opencv-python-headless
+pillow
+numpy
+requests
